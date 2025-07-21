@@ -1,13 +1,12 @@
 [
-{
-"subjectNo": 1,
-"subjectName": "JavaScript",
-"quizListUrl": "https://varanasi-software-junction.github.io/pictures-json/quizzes/js-quizzes.json"
-},
-
-{
-    "subjectNo":2,
-    "subjectName":"React",
-    "quizListUrl":"react.json"
-}
+    {
+        "subjectNo": 1,
+        "subjectName": "JavaScript",
+        "quizListUrl": "https://varanasi-software-junction.github.io/pictures-json/quizzes/js-quizzes.json"
+    },
+    {
+        "subjectNo": 2,
+        "subjectName": "React",
+        "quizListUrl": "https://anurag-vns.github.io/anuragjson/reactquiz.json"
+    }
 ]
