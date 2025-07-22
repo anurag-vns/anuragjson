@@ -8,5 +8,11 @@
         "subjectNo": 2,
         "subjectName": "React",
         "quizListUrl": "https://anurag-vns.github.io/anuragjson/react-quizzes.json"
+    },
+
+    {
+        "subjectNo":3,
+        "subjectName":"Python",
+        "quizListUrl":
     }
 ]
