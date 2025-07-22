@@ -6,7 +6,7 @@
     },
     {
         "subjectNo": 2,
-        "subjectName": "JavaScript",
-        "quizListUrl": "https://anurag-vns.github.io/anuragjson/reactbasic.json"
+        "subjectName": "React",
+        "quizListUrl": "https://anurag-vns.github.io/anuragjson/reactquiz.json"
     }
 ]
