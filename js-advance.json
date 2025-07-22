@@ -1,0 +1,7 @@
+[
+    {
+        "question":"which of the following is NOT a JavaScript data type?",
+        "options":["Symbol","BigInt","Undefined","Float"],
+        "answer":"Float"
+    }
+]
