@@ -1,7 +1,12 @@
 [
     {
-        "question":"what is the correct file extension for Python files?",
-        "options": [".pyth",".pt",".py",".pyt"],
-        "answer":".py"
+        "question": "what is the correct file extension for Python files?",
+        "options": [
+            ".pyth",
+            ".pt",
+            ".py",
+            ".pyt"
+        ],
+        "answer": ".py"
     }
 ]
