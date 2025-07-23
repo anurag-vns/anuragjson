@@ -1,7 +1,14 @@
 [
-{
+    {
 "quizNo": 1,
 "quizName": "ReactBasics",
 "quizUrl": "https://anurag-vns.github.io/anuragjson/reactbasic.json"
+},
+
+{
+"quizNo": 1,
+"quizName": "ReactBasics",
+"quizUrl": "https://anurag-vns.github.io/anuragjson/react-advance.json"
 }
+
 ]
