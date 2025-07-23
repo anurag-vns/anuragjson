@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Which feature in Python allows you to write asynchronous code that runs concurrently?",
+      "options": [
+        "Decorators",
+        "Generators",
+        "Context Managers",
+        "Async/Await"
+      ],
+      "answer": "Async/Await"
+    }
+]

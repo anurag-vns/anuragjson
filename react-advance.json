@@ -1,0 +1,11 @@
+[
+   { "question": "When should you use `useCallback` in React?",
+      "options": [
+        "To call a function multiple times",
+        "To memoize a value between renders",
+        "To memoize a function so it doesn't get recreated unless dependencies change",
+        "To trigger side-effects after rendering"
+      ],
+      "answer": "To memoize a function so it doesn't get recreated unless dependencies change"
+    }
+    ]
